@@ -12,7 +12,7 @@
  }
  ```
  
-- 🌱 I'm Rocio Garcia, Full Stack Developer from Argentina. 
+- 🚀 I'm Rocio Garcia, Full Stack Developer from Argentina. 
 
 I started my studies in the midst of a pandemic, where I decided that this was the world where I wanted to develop professionally. Since then, I find myself creating websites where I try to improve more and more, since I am a very detailed person.
 
