@@ -23,7 +23,7 @@ Already received at the Henry bootcamp, I have added more than 800 hours of lear
 
 E-mail: rocio33gl@gmail.com
 </br>
-LinkedIn: www.linkedin.com/in/rociogarcia-fullstack
+LinkedIn: www.linkedin.com/in/rociogarcialofrano
 
 <h3>
 Thanks for getting here!
