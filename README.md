@@ -6,9 +6,9 @@
  
  ```js
  const rocio = {
-    passions: ['code', 'design', 'user experience', 'learn new things'],
-    tools: ['Javascript', 'CSS', 'HTML5', 'React', 'Redux', 'Express', 'Node.js', 'SQL', ...more],
-    learning: ['Next.js', 'UX-UI']
+    passions: ['Programming', 'Self Growth', 'Learn new things', 'Challenges'],
+    tools: ['Javascript', 'Next.js', 'CSS', 'HTML5', 'React', 'Redux', 'Express', 'Node.js', 'PostgreSQL', ...more],
+    learning: ['Typescript', 'MongoDB', 'Firebase', 'React Native']
  }
  ```
  
