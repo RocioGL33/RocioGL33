@@ -8,15 +8,15 @@
  const rocio = {
     passions: ['Programming', 'Self Growth', 'Learn new things', 'Challenges'],
     tools: ['Javascript', 'Next.js', 'CSS', 'HTML5', 'React', 'Redux', 'Express', 'Node.js', 'PostgreSQL', ...more],
-    learning: ['Typescript', 'MongoDB', 'Firebase', 'React Native']
+    learning: ['Typescript', 'MongoDB', 'React Native', 'Python'],
  }
  ```
  
-- 🚀 I'm Rocio Garcia, Full Stack Developer from Argentina. 
+- 🚀 It's Rocio, Full Stack Developer from Argentina. 
 
-I started my studies in the midst of a pandemic, where I decided that this was the world where I wanted to develop professionally. Since then, I find myself creating websites where I try to improve more and more, since I am a very detailed person.
+I started my studies in the midst of a pandemic, where I decided that this was the world where I wanted to develop professionally. Since then, I find myself creating websites where I try to improve more and more, since I am a very detailed and creative person.
 
-Already received at the Henry bootcamp, I have added more than 800 hours of learning in contact with technologies such as: **HTML, JavaScript, ReactJS, Redux, NodeJS, Express, PostgreSQL, Sequelize, CSS and currently perfecting myself in the world of UX-UI design, using Figma and AdobeXD as main tools**
+Already received at the Henry bootcamp, I have added more than 800 hours of learning in contact with technologies such as: **HTML, JavaScript, ReactJS, Redux, NodeJS, Express, PostgreSQL, Sequelize, CSS and currently perfecting myself in other technologies like Python **
 
 
 🌍 Contact me
