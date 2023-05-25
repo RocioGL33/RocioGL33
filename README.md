@@ -2,7 +2,7 @@
   Hello, I'm glad you're here!
 </h2>
 
- ![BannerLinkedin](https://user-images.githubusercontent.com/76136103/186407507-d972c93c-4562-4624-998f-2a43784e7c38.png)
+ [![Banner-para-Linkedin-Community-Manager-Simple-Blanco.png](https://i.postimg.cc/SRh1RHWS/Banner-para-Linkedin-Community-Manager-Simple-Blanco.png)](https://postimg.cc/5YsSk77T)
  
  ```js
  const rocio = {
