@@ -21,9 +21,7 @@ Already received at the Henry bootcamp as a Full Stack Developer, I have added m
 
 🌍 Contact me
 
-My Digital Portfolio
-</br>
-https://rgl-portfolio.vercel.app/
+My Digital Portfolio: https://rgl-portfolio.vercel.app/
 </br>
 E-mail: rocio33gl@gmail.com
 </br>
