@@ -56,9 +56,9 @@
 ## Contact me:
 
 <div> 
-<a href="mailto:rocio33gl@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+
+**E-mail:**
+[rocio33gl@gmail.com](mailto:rocio33gl@gmail.com)
 
 <a href="https://www.linkedin.com/in/rociogarcialofrano/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
