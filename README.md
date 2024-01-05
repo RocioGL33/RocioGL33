@@ -1,7 +1,4 @@
-<div align="center">
-<img align="center" style="margin-bottom:100px" width=40% src="https://i.imgur.com/29lFPQu.png" />
-</div>
-&nbsp;&nbsp;&nbsp;
+
 
 <p align="center">Bienvenido/a! ❤ <br><br> Mi nombre es Rocio, vivo en Buenos Aires, Argentina, soy Frontend Developer enfocada en combinar creatividad y técnica para construir excelentes productos digitales.&nbsp;
 
