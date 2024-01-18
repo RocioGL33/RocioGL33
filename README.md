@@ -1,7 +1,7 @@
 <p align="center">Bienvenido/a! ❤ <br><br> Mi nombre es Rocio, vivo en Buenos Aires, Argentina, soy Frontend Developer enfocada en combinar creatividad y técnica para construir excelentes productos digitales.&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RocioGL33&theme=radical&mode=weekly" />
+
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RocioGL33&show_icons=true&theme=radical&layout=compact" />
 </div>
  
